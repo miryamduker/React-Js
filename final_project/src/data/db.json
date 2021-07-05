@@ -1,0 +1,637 @@
+{
+  "businessCards": [
+    {
+      "id": 1,
+      "logo": "src/pics/c1.jpg",
+      "name": "מרים כהן",
+      "area": "צפון",
+      "phoneNumber": "0522221414",
+      "type": "cosmetics"
+    },
+    {
+      "id": 2,
+      "logo": "src/pics/c2.jpg",
+      "name": "חיה קוסמטיקה",
+      "area": "דרום",
+      "phoneNumber": "0526668989",
+      "type": "cosmetics"
+    },
+    {
+      "id": 3,
+      "logo": "src/pics/c3.jpg",
+      "name": "אפרת ציפורניים",
+      "area": "ירושלים",
+      "phoneNumber": "0569897755",
+      "type": "cosmetics"
+    },
+    {
+      "id": 4,
+      "logo": "src/pics/c4.jpg",
+      "name": "טליה אנגלמן",
+      "area": "דרום",
+      "phoneNumber": "0533457898",
+      "type": "cosmetics"
+    },
+    {
+      "id": 5,
+      "logo": "src/pics/c5.jpg",
+      "name": "ביוטי אופנה",
+      "area": "מרכז הארץ",
+      "phoneNumber": "0566664847",
+      "type": "cosmetics"
+    },
+    {
+      "id": 6,
+      "logo": "src/pics/c6.jpg",
+      "name": "נוני קוסמטיקה",
+      "area": "דרום",
+      "phoneNumber": "0533698989",
+      "type": "cosmetics"
+    },
+    {
+      "id": 7,
+      "logo": "src/pics/c7.jpg",
+      "name": "היופי שלך",
+      "area": "צפון",
+      "phoneNumber": "0522454456",
+      "type": "cosmetics"
+    },
+    {
+      "id": 8,
+      "logo": "src/pics/d1.jpg",
+      "name": "ביוטי סנטר",
+      "area": "דרום",
+      "phoneNumber": "0527664545",
+      "type": "dressRentals"
+    },
+    {
+      "id": 9,
+      "logo": "src/pics/d2.png",
+      "name": "חדר כלה",
+      "area": "ירושלים",
+      "phoneNumber": "0533698989",
+      "type": "dressRentals"
+    },
+    {
+      "id": 10,
+      "logo": "src/pics/d3.jpeg",
+      "name": "מורשה שמלות",
+      "area": "מרכז הארץ",
+      "phoneNumber": "0564548989",
+      "type": "dressRentals"
+    },
+    {
+      "id": 11,
+      "logo": "src/pics/d4.jpg",
+      "name": "סלון באבל",
+      "area": "דרום",
+      "phoneNumber": "0545458585",
+      "type": "dressRentals"
+    },
+    {
+      "id": 12,
+      "logo": "src/pics/d5.jpg",
+      "name": "שיראן שמלות",
+      "area": "דרום",
+      "phoneNumber": "0533154874",
+      "type": "dressRentals"
+    },
+    {
+      "id": 13,
+      "logo": "src/pics/d6.jpg",
+      "name": "ויקטוריה",
+      "area": "דרום",
+      "phoneNumber": "0569896565",
+      "type": "dressRentals"
+    },
+    {
+      "id": 14,
+      "logo": "src/pics/h1.png",
+      "name": "חן שיר",
+      "area": "צפון",
+      "phoneNumber": "0524847577",
+      "type": "hairdressers"
+    },
+    {
+      "id": 15,
+      "logo": "src/pics/h2.jpg",
+      "name": "ללי תסרוקות",
+      "area": "מרכז הארץ",
+      "phoneNumber": "0583212145",
+      "type": "hairdressers"
+    },
+    {
+      "id": 16,
+      "logo": "src/pics/h3.jpg",
+      "name": "אילה כהן",
+      "area": "מרכז הארץ",
+      "phoneNumber": "0551214848",
+      "type": "hairdressers"
+    },
+    {
+      "id": 17,
+      "logo": "src/pics/h4.jpg",
+      "name": "חנה אנגליסה",
+      "area": "דרום",
+      "phoneNumber": "0558975565",
+      "type": "hairdressers"
+    },
+    {
+      "id": 18,
+      "logo": "src/pics/h5.jpg",
+      "name": "שרה נוימן",
+      "area": "צפון",
+      "phoneNumber": "0585542145",
+      "type": "hairdressers"
+    },
+    {
+      "id": 19,
+      "logo": "src/pics/h6.jpg",
+      "name": "מלכה לוי",
+      "area": "מרכז הארץ",
+      "phoneNumber": "0544847878",
+      "type": "hairdressers"
+    },
+    {
+      "id": 20,
+      "logo": "src/pics/h7.jpg",
+      "name": "אפרת הופמן",
+      "area": "ירושלים",
+      "phoneNumber": "0589698547",
+      "type": "hairdressers"
+    },
+    {
+      "id": 21,
+      "logo": "src/pics/f1.png",
+      "name": "מוריה",
+      "area": "צפון",
+      "phoneNumber": "0533454847",
+      "type": "flowers"
+    },
+    {
+      "id": 22,
+      "logo": "src/pics/f2.png",
+      "name": "פיבונצי פרחים",
+      "area": "דרום",
+      "phoneNumber": "026669595",
+      "type": "flowers"
+    },
+    {
+      "id": 23,
+      "logo": "src/pics/f3.png",
+      "name": "ענת פרחים",
+      "area": "מרכז הארץ",
+      "phoneNumber": "0554847474",
+      "type": "flowers"
+    },
+    {
+      "id": 24,
+      "logo": "src/pics/f4.png",
+      "name": "עינת פרחים",
+      "area": "ירושלים",
+      "phoneNumber": "026664545",
+      "type": "flowers"
+    },
+    {
+      "id": 25,
+      "logo": "src/pics/f5.png",
+      "name": "פרחים ורגשות",
+      "area": "צפון",
+      "phoneNumber": "0525446568",
+      "type": "flowers"
+    },
+    {
+      "id": 26,
+      "logo": "src/pics/m1.png",
+      "name": "לאה ברון",
+      "area": "מרכז הארץ",
+      "phoneNumber": "0566487978",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 27,
+      "logo": "src/pics/m2.png",
+      "name": "אסתי איפור",
+      "area": "מרכז הארץ",
+      "phoneNumber": "025548748",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 28,
+      "logo": "src/pics/m3.png",
+      "name": "נעמה וילק",
+      "area": "צפון",
+      "phoneNumber": "0554847575",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 29,
+      "logo": "src/pics/m4.png",
+      "name": "חנה מלול",
+      "area": "מרכז הארץ",
+      "phoneNumber": "0566664848",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 30,
+      "logo": "src/pics/m5.png",
+      "name": "הודיה בוטיק",
+      "area": "דרום",
+      "phoneNumber": "0556785424",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 31,
+      "logo": "src/pics/m6.png",
+      "name": "שרה סמית",
+      "area": "ירושלים",
+      "phoneNumber": "0544459869",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 32,
+      "logo": "src/pics/m7.png",
+      "name": "אסתר בלג",
+      "area": "מרכז הארץ",
+      "phoneNumber": "0587841234",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 33,
+      "logo": "src/pics/m6.png",
+      "name": "חני פאות",
+      "area": "ירושלים",
+      "phoneNumber": "026658423",
+      "type": "shaitelMachers"
+    },
+    {
+      "id": 34,
+      "logo": "src/pics/m6.png",
+      "name": "גינת קופל",
+      "area": "צפון",
+      "phoneNumber": "0524847878",
+      "type": "shaitelMachers"
+    },
+    {
+      "id": 35,
+      "logo": "src/pics/m6.png",
+      "name": "אילה רוטנברג",
+      "area": "דרום",
+      "phoneNumber": "0533124878",
+      "type": "shaitelMachers"
+    },
+    {
+      "id": 36,
+      "logo": "src/pics/m6.png",
+      "name": "שרה עמאר",
+      "area": "ירושלים",
+      "phoneNumber": "0527995658",
+      "type": "shaitelMachers"
+    },
+    {
+      "id": 37,
+      "logo": "src/pics/m6.png",
+      "name": "פאות ביוטי",
+      "area": "מרכז הארץ",
+      "phoneNumber": "0524748585",
+      "type": "shaitelMachers"
+    },
+    {
+      "id": 38,
+      "logo": "src/pics/m6.png",
+      "name": "רוקאט פאות",
+      "area": "ירושלים",
+      "phoneNumber": "0566485785",
+      "type": "shaitelMachers"
+    },
+    {
+      "id": 39,
+      "logo": "src/pics/c8.jpg",
+      "name": " מרים קוסמטיקה",
+      "area": "צפון",
+      "phoneNumber": "0526884757",
+      "type": "cosmetics"
+    },
+    {
+      "id": 40,
+      "logo": "src/pics/c9.jpg",
+      "name": "אומנות הלק",
+      "area": "ירושלים",
+      "phoneNumber": "0534954456",
+      "type": "cosmetics"
+    },
+    {
+      "id": 41,
+      "logo": "src/pics/c10.jpg",
+      "name": "נייל סטודיו",
+      "area": "דרום",
+      "phoneNumber": "0533145787",
+      "type": "cosmetics"
+    },
+    {
+      "id": 42,
+      "logo": "src/pics/c11.jpg",
+      "name": "חיה",
+      "area": "מרכז הארץ",
+      "phoneNumber": "0566478989",
+      "type": "cosmetics"
+    },
+    {
+      "id": 43,
+      "logo": "src/pics/c12.jpg",
+      "name": "חנה מל",
+      "area": "צפון",
+      "phoneNumber": "025647878",
+      "type": "cosmetics"
+    },
+    {
+      "id": 44,
+      "logo": "src/pics/c13.jpg",
+      "name": "גניפר",
+      "area": "צפון",
+      "phoneNumber": "0533169898",
+      "type": "cosmetics"
+    },
+    {
+      "id": 45,
+      "logo": "src/pics/c14.jpg",
+      "name": "טיפ טו",
+      "area": "דרום",
+      "phoneNumber": "0521784848",
+      "type": "cosmetics"
+    },
+    {
+      "id": 46,
+      "logo": "src/pics/c15.jpg",
+      "name": "הודיה",
+      "area": "ירושלים",
+      "phoneNumber": "0599684545",
+      "type": "cosmetics"
+    },
+    {
+      "id": 47,
+      "logo": "src/pics/d7.jpg",
+      "name": "שמלות לאה",
+      "area": "צפון",
+      "phoneNumber": "0266698989",
+      "type": "dressRentals"
+    },
+    {
+      "id": 48,
+      "logo": "src/pics/d8.jpg",
+      "name": "גלוריה שמלות",
+      "area": "ירושלים",
+      "phoneNumber": "029996842",
+      "type": "dressRentals"
+    },
+    {
+      "id": 49,
+      "logo": "src/pics/d9.jpg",
+      "name": "רחל כהן",
+      "area": "מרכז הארץ",
+      "phoneNumber": "029998585",
+      "type": "dressRentals"
+    },
+    {
+      "id": 50,
+      "logo": "src/pics/d10.jpg",
+      "name": "מאירה",
+      "area": "מרכז הארץ",
+      "phoneNumber": "029996565",
+      "type": "dressRentals"
+    },
+    {
+      "id": 51,
+      "logo": "src/pics/f6.png",
+      "name": "פרחים אפרת",
+      "area": "צפון",
+      "phoneNumber": "029996562",
+      "type": "flowers"
+    },
+    {
+      "id": 52,
+      "logo": "src/pics/f7.png",
+      "name": "פרחים עיצוב",
+      "area": "דרום",
+      "phoneNumber": "025554141",
+      "type": "flowers"
+    },
+    {
+      "id": 53,
+      "logo": "src/pics/f8.png",
+      "name": "אילה פרחים",
+      "area": "צפון",
+      "phoneNumber": "0599875645",
+      "type": "flowers"
+    },
+    {
+      "id": 54,
+      "logo": "src/pics/f9.png",
+      "name": "שירה עובדיה",
+      "area": "ירושלים",
+      "phoneNumber": "025457858",
+      "type": "flowers"
+    },
+    {
+      "id": 55,
+      "logo": "src/pics/f10.png",
+      "name": "חיהלה פרחים",
+      "area": "ירושלים",
+      "phoneNumber": "0598586321",
+      "type": "flowers"
+    },
+    {
+      "id": 56,
+      "logo": "src/pics/f11.png",
+      "name": "חני יודלביץ",
+      "area": "מרכז הארץ",
+      "phoneNumber": "0544123636",
+      "type": "flowers"
+    },
+    {
+      "id": 57,
+      "logo": "src/pics/f12.png",
+      "name": "שרה הרט",
+      "area": "מרכז הארץ",
+      "phoneNumber": "029993214",
+      "type": "flowers"
+    },
+    {
+      "id": 58,
+      "logo": "src/pics/h6.jpg",
+      "name": "שרה נוימן",
+      "area": "צפון",
+      "phoneNumber": "023451252",
+      "type": "hairdressers"
+    },
+    {
+      "id": 59,
+      "logo": "src/pics/h7.jpg",
+      "name": "שרה נוימן",
+      "area": "צפון",
+      "phoneNumber": "029996414",
+      "type": "hairdressers"
+    },
+    {
+      "id": 60,
+      "logo": "src/pics/h8.jpg",
+      "name": "אילה אול",
+      "area": "דרום",
+      "phoneNumber": "026548585",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 61,
+      "logo": "src/pics/h9.jpg",
+      "name": "שרה נון",
+      "area": "צפון",
+      "phoneNumber": "0587412325",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 62,
+      "logo": "src/pics/m8.png",
+      "name": "חנה איפור",
+      "area": "מרכז הארץ",
+      "phoneNumber": "029996541",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 63,
+      "logo": "src/pics/m9.png",
+      "name": "הודיה יעל",
+      "area": "מרכז הארץ",
+      "phoneNumber": "024586715",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 64,
+      "logo": "src/pics/m8.png",
+      "name": "טובה הופמן",
+      "area": "צפון",
+      "phoneNumber": "029996541",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 65,
+      "logo": "src/pics/m9.png",
+      "name": "יעל איפור",
+      "area": "דרום",
+      "phoneNumber": "024586715",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 66,
+      "logo": "src/pics/m10.png",
+      "name": "מרים ליוש",
+      "area": "ירושלים",
+      "phoneNumber": "029996328",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 67,
+      "logo": "src/pics/m11.png",
+      "name": "חיהלה",
+      "area": "דרום",
+      "phoneNumber": "0568741241",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 68,
+      "logo": "src/pics/m12.png",
+      "name": "אסתר איפור",
+      "area": "ירושלים",
+      "phoneNumber": "0556782585",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 69,
+      "logo": "src/pics/m13.png",
+      "name": "איפור כלות",
+      "area": "צפון",
+      "phoneNumber": "029874563",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 70,
+      "logo": "src/pics/m14.png",
+      "name": "זהבה בוגנים",
+      "area": "ירושלים",
+      "phoneNumber": "036874548",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 71,
+      "logo": "src/pics/m15.png",
+      "name": "שני לוי",
+      "area": "דרום",
+      "phoneNumber": "0555557874",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 72,
+      "logo": "src/pics/m16.png",
+      "name": "אלישבע הוטינר",
+      "area": "מרכז הארץ",
+      "phoneNumber": "029995241",
+      "type": "makeupArtists"
+    },
+    {
+      "id": 73,
+      "logo": "src/pics/s7.png",
+      "name": " מושלמות הפאות",
+      "area": "ירושלים",
+      "phoneNumber": "0566485785",
+      "type": "shaitelMachers"
+    },
+    {
+      "id": 74,
+      "logo": "src/pics/s8.png",
+      "name": "אסתר עמר",
+      "area": "מרכז הארץ",
+      "phoneNumber": "029994512",
+      "type": "shaitelMachers"
+    },
+    {
+      "id": 75,
+      "logo": "src/pics/s9.png",
+      "name": "מלכה בזהב",
+      "area": "דרום",
+      "phoneNumber": "0599874125",
+      "type": "shaitelMachers"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userName": "Admin",
+      "password": "admin@246",
+      "email": "boekallah@gmail.com",
+      "favorites": [
+        4,
+        5,
+        15,
+        16,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "id": 2,
+      "userName": "מרים",
+      "password": "mld123",
+      "email": "miryamduker@gmail.com",
+      "favorites": [
+        27,
+        64,
+        71,
+        76,
+        74,
+        10,
+        2,
+        44
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+.card{
+  border:solid black 3px !important;
+  box-shadow:  0 0 10px goldenrod !important;
+    
+}
+
+.card-img-top{
+  height: 200px !important;
+  
+}
+
+div{
+  direction: rtl;
+}
+
+label{
+  padding-right: 1%;
+  font-size: 20px;
+}

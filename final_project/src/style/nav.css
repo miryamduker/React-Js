@@ -1,0 +1,15 @@
+.links{
+    direction: rtl;
+}
+
+.bg-light{
+    background-color: white !important;
+}
+
+.navbar{
+    direction: rtl;
+}
+
+.dropdown-item{
+    text-align: center !important; 
+}

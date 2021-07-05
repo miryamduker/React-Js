@@ -1,0 +1,13 @@
+.about-body{
+    border: 30px solid black;
+    width: 50%;
+    margin: auto;
+    background-color: white;
+    padding: 3%;
+    font-size: 30px;
+  
+}
+
+.about-h{
+    font-weight: bold;
+}

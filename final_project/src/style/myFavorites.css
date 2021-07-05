@@ -1,0 +1,8 @@
+.email-btn{
+    position:fixed;
+    right: 88%;
+    width:10%;
+    font-size: 20px !important;
+    border:solid black 3px !important;
+    box-shadow:  0 0 10px goldenrod !important;
+}

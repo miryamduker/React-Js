@@ -1,0 +1,31 @@
+.img{
+    width: 100%;
+}
+
+.col-md-4{
+    display: inline-block !important;
+}
+
+.all-slides{
+    margin:1% !important;
+    display: inline-block !important;
+    direction: rtl;
+    width: fit-content;
+}
+
+.row{
+    margin: 1% !important;
+    display: inline-block !important;
+}
+
+.thumbnail{
+    margin: 2% !important;
+}
+
+.bt-slide{
+    background-color: black;
+    color: goldenrod;
+    border: solid 2px goldenrod;
+    border-radius: 1%;
+    box-shadow:  0 0 10px goldenrod;
+}

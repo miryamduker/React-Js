@@ -1,0 +1,33 @@
+.new-business{
+  width: 40%;
+  height: 100%;
+  margin: auto;
+  margin-top: 2%;
+  direction: rtl;
+  border-style: solid;
+  background-color: white;
+}
+
+.form-control{
+  margin-bottom: 2% !important;
+  width: 60% !important;
+  margin:auto;
+}
+
+.h{
+  font-weight: bold;
+  text-shadow: 0 0 3px goldenrod;
+  margin-top: 4%;
+  font-size:x-large;
+  color: black;
+}
+
+.btn{
+  background-color: white !important;
+  border:solid black 2px !important;
+  width: 60% !important;
+  margin: 2% !important;
+  font-size: x-large !important;
+  font-weight: bold !important;
+  text-shadow: 0 0 3px goldenrod;
+}

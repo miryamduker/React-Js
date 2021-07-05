@@ -1,0 +1,55 @@
+.content{
+    background-color: black;
+    color: white !important;
+}
+
+.l{
+    padding: 2%;
+    color: white !important;
+}
+
+.close{
+    color: white !important;
+    margin: 2%;
+}
+
+.modal{
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+}
+
+.new-user{
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+}
+
+.body{
+    padding: 40px 50px
+}
+
+.sb{
+    background-color: white !important;
+    width: 40% ;
+    margin: 10% ;
+    font-size: large;
+}
+
+.user{
+   background-color: white;
+   margin: 5%;
+   height: 60px;
+}
+
+.login-body{
+    margin: 5%;
+}
+
+.b{
+    padding: 3%;
+    margin: 5%;;
+    background-color: black !important;
+    color:white;
+    font-size:x-large;
+}
